@@ -5,5 +5,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface SalesDataRepository extends JpaRepository<SalesData, Long> {
-    // Custom query methods (if needed)
+    
 }
